@@ -74,7 +74,7 @@
 
             <!-- fin alerta -->
             <div class="card">
-                <div class="card-header">
+                <div  class="card-header">
                     Lista de personas
                 </div>
                 <div class="p-4">
@@ -82,7 +82,7 @@
                         <thead>
                             <tr>
                                 <th scope="col">#</th>
-                                <th scope="col">Nombres</th>
+                                <th  scope="col">Nombres</th>
                                 <th scope="col">Apellido Paterno</th>
                                 <th scope="col">Apellido Materno</th>
                                 <th scope="col">F.Nacimiento</th>
